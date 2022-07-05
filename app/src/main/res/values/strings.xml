@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Artzy</string>
+
+    <string-array name="attr">
+        <item>Small</item>
+        <item>Large</item>
+        <item>Extra Large</item>
+    </string-array>
+</resources>
